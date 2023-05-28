@@ -1,0 +1,54 @@
+.title {
+    letter-spacing: 3px;
+}
+
+.btn-custom {
+    border-radius: 25px;
+  }
+
+.skills-col {
+    margin: 1%;
+    display:flex;
+    flex-direction: column;
+}
+
+.box {
+    margin: 0 8%;
+}
+
+.skillsBox {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding-bottom: 2%;
+}
+
+.professionalBox{
+    display:flex;
+    justify-content: center;
+    margin-left:7%
+}
+
+.socialIcon{
+    font-size: 2rem;
+    margin: 0 1rem;
+}
+
+.blurImage{
+    filter: blur(5px);
+}
+
+.points{
+    list-style-type: disc;
+    margin: 1rem 0;
+    word-spacing: 2px;
+    line-height: 32px
+    // color: #92c0d7;
+}
+
+.techStack{
+    word-spacing: 2px;
+    padding-bottom: 0px;
+    line-height: 32px
+}
+
