@@ -51,7 +51,7 @@ const ClassicHeader = ({ handleNavClick }) => {
               }}
             >
               {" "}
-              <img src="images/logo-light.png" alt="Simone" />{" "}
+{/*               <img src="images/logo-light.png" alt="Simone" />{" "} */}
             </Link>
             {/* Logo End */}
           </div>
