@@ -60,7 +60,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                   <a href="kellychowkc.kc@gmail.com">kellychowkc.kc@gmail.com</a>
                 </li>
                 <li>
-                  <span className="fw-600 me-2">Age:</span>22
+                  <span className="fw-600 me-2">Age:</span>23
                 </li>
                 <li className="border-0">
                   <span className="fw-600 me-2">From:</span>Hong Kong

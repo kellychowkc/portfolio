@@ -1,8 +1,8 @@
 Arguments: 
-  /opt/homebrew/Cellar/node/18.7.0/bin/node /usr/local/bin/yarn add @icons8/react-icon
+  /opt/homebrew/Cellar/node/18.7.0/bin/node /usr/local/bin/yarn add 16.10.0
 
 PATH: 
-  /Users/smartbean/.docker/bin:/Users/smartbean/google-cloud-sdk/bin:/Users/smartbean/.pyenv/shims:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Applications/Postgres.app/Contents/Versions/latest/bin
+  /Users/smartbean/.docker/bin:/Users/smartbean/google-cloud-sdk/bin:/Users/smartbean/.pyenv/shims:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:/Users/smartbean/.docker/bin:/Users/smartbean/google-cloud-sdk/bin:/opt/homebrew/bin:/opt/homebrew/sbin
 
 Yarn version: 
   1.22.19
@@ -14,7 +14,7 @@ Platform:
   darwin arm64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@icons8%2freact-icon: Not found
+  Error: https://registry.yarnpkg.com/16.10.0: Not found
       at params.callback [as _callback] (/usr/local/lib/node_modules/yarn/lib/cli.js:66145:18)
       at self.callback (/usr/local/lib/node_modules/yarn/lib/cli.js:140890:22)
       at Request.emit (node:events:513:28)
